@@ -1,4 +1,4 @@
-#Rem Discord Bot Open Source
+# Rem Discord Bot Open Source
 Welcome to the open source of my discord bot. Only a few people can have access right now as im still not sure if any of this is fully functional.
 
 Please do not claim any of this as your own as it is all my own work.
