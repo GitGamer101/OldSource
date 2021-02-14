@@ -1,4 +1,4 @@
-//Copyright [2021] [NotSoNitro]
+// Copyright [2021] [NotSoNitro]
 
 using DSharpPlus;
 using DSharpPlus.CommandsNext;
