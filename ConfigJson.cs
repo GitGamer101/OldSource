@@ -1,4 +1,6 @@
-﻿using Newtonsoft.Json;
+// Copyright [2021] [NotSoNitro]
+
+using Newtonsoft.Json;
 
 namespace Lunar_Bot
 {
