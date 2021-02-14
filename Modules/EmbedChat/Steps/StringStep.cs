@@ -1,4 +1,6 @@
-﻿using DSharpPlus;
+// Copyright [2021] [NotSoNitro]
+
+using DSharpPlus;
 using DSharpPlus.Entities;
 using DSharpPlus.Interactivity;
 using DSharpPlus.Interactivity.Extensions;
