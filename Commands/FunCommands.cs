@@ -1,4 +1,6 @@
-﻿using DSharpPlus;
+// Copyright [2021] [NotSoNitro]
+
+using DSharpPlus;
 using DSharpPlus.CommandsNext;
 using DSharpPlus.CommandsNext.Attributes;
 using DSharpPlus.Entities;
